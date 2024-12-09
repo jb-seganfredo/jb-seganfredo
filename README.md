@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm Júlia, a History student at UFRGS who is transitioning into the tech industry. I have solid expertise in HTML, CSS, JavaScript, Angular, and Bootstrap, and I am continually enhancing my proficiency in these areas.
 
@@ -8,7 +8,7 @@ Previously, I worked as a teacher with Porto Alegre Municipality, where I refine
 
 🔭 I’m currently working on my personal portfolio;  
 
-💻 Skills: HTML5, CSS3, JavaScript, TypeScript, Angular, Git, Github;
+💻 Skills: HTML5, CSS3, JavaScript, TypeScript, React, Git, Github;
 
 🌱 I’m currently learning React and improving my backend development skills.
 
